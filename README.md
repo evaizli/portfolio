@@ -34,12 +34,12 @@ I am a software engineer with over 7 years of track-record of identifying and so
 
 
 #### OTHER PROFESSIONAL SKILLS:
-Agile Development & Scrum
-Account Management
-Project Management
-International Program Management
-Corporate Social Responsibility
-Cross Functional Team Collaborations
-Product Chain of Custody Audit
-Supply Chain Risk Analysis
-Operations Efficiency Analysis
+* Agile Development & Scrum
+* Account Management
+* Project Management
+* International Program Management
+* Corporate Social Responsibility
+* Cross Functional Team Collaborations
+* Product Chain of Custody Audit
+* Supply Chain Risk Analysis
+* Operations Efficiency Analysis
