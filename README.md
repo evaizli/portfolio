@@ -2,7 +2,7 @@
 
 I am a software engineer with over 7 years of track-record of identifying and solving strategic problems, building efficient processes, and program managing domestic and international supply chain social impact initiatives in fast-paced environments. I dedicated to leverage technology to drive business growth and sustainability through improving business processes and fostering stakeholder collaboration.
 
-#Skill
+# Skill
 
 #### LANGUAGES:
 * JavaScript
